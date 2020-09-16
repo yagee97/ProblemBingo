@@ -11,6 +11,7 @@
 >  _into the main entertainment elements of the game<br>_
 
 ***
+<br>
 # **2. Key features**
     1)Select category that you want to solve.
     - Kind of Category : social, entertainment, English word, history, multiplication table
